@@ -1,1 +1,1 @@
-to jest mój opis
+To jest mój opis.
