@@ -1,7 +1,6 @@
 # Wypracowanie
 
-Dziś wstałem rano.
-Rozwinięcie ...
+Dziś wstałem rano. Przyszedłem do biura i prowadzę Code Camp Poland.
 Zakończonenie ...
 
 Podpis
