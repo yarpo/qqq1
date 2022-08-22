@@ -1,6 +1,7 @@
 # Wypracowanie
 
 Dziś wstałem rano. Przyszedłem do biura i prowadzę Code Camp Poland.
-Zakończonenie ...
 
-Podpis
+Teraz na pewno już zrozumieją.
+
+Patryk Jar
