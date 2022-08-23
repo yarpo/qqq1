@@ -8,3 +8,4 @@ Patryk Jar
 
 Ja teź wstałam rano, ale nie poszłam do biura.
 HN
+Kolejna zmiana z nowego brancha.
